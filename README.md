@@ -38,6 +38,6 @@ This program uses a simple console interface and is intended for educational pur
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/OmerKhan24/Poker-Game-in-C/blob/main/LICENSE) file for details.
 
 © 2024 Muhammad Omer Khan. All Rights Reserved.
